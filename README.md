@@ -1,29 +1,47 @@
 <h1>Hi 👋, I'm Harsh Srivastava</h1>
-<p>A passionate Full Stack Developer 🚀 constantly learning and building real-world projects.</p>
+<p>Data Analyst | Full Stack Developer | Turning data into actionable insights</p>
 
 <h2>💡 About Me</h2>
 <ul>
-<li>💻 Full Stack Developer (MERN + Django)</li>
-<li>📊 Interested in Data Analytics & Machine Learning</li>
-<li>🌱 Currently improving problem-solving & system design</li>
-<li>⚡ Believe in learning by building</li>
+<li>📊 Data Analyst at Flipkart – working on cohort analysis, campaign performance & RCA</li>
+<li>💻 Skilled in SQL, Python, Excel & Power BI</li>
+<li>🚀 Building data-driven web applications using React & Django</li>
+<li>📈 Passionate about solving business problems using data</li>
 </ul>
 
-<h2>🚀 Tech Stack</h2>
-
+<h2>🛠️ Tech Stack</h2>
 <p>
-<img src="https://skillicons.dev/icons?i=c,js,python,java,react,redux,nodejs,express,django,flask,mysql,mongodb,postgres,tailwind,bootstrap,html,css,git,linux,firebase" />
+<img src="https://skillicons.dev/icons?i=python,sql,js,react,nodejs,django,mysql,postgres,mongodb,html,css,git,linux" />
 </p>
 
-<h2>📌 Projects</h2>
+<h2>📊 Featured Projects</h2>
+
 <ul>
-<li><b>Task Manager App</b> – Full stack app using React & Django with authentication and CRUD operations</li>
-<li><b>Customer Segmentation Analysis</b> – Data analytics project using Python & ML techniques</li>
+<li>
+<b>Data-Driven Budget Allocation System</b><br/>
+• Built ML-based system to predict and optimize institutional budgets<br/>
+• Used Python, Scikit-learn & PuLP for prediction and optimization<br/>
+• Developed Streamlit dashboard for real-time insights and decision-making
+</li>
+
+<li>
+<b>Customer Segmentation Analysis (SQL)</b><br/>
+• Performed cohort and behavioral analysis using SQL<br/>
+• Identified high-value, repeat, and inactive customers<br/>
+• Used JOINs, aggregations, and filtering for business insights
+</li>
+
+<li>
+<b>Sales Performance Dashboard (Power BI)</b><br/>
+• Built interactive dashboard tracking KPIs like Sales, Profit, Margin<br/>
+• Used DAX and Power Query for data transformation and insights
+</li>
 </ul>
 
 <h2>📜 Certifications</h2>
 <ul>
 <li><a href="https://www.hackerrank.com/certificates/fdea142d3713">HackerRank SQL (Basic)</a></li>
+<li>LeetCode SQL 50 Badge</li>
 </ul>
 
 <h2>🌐 Connect With Me</h2>
